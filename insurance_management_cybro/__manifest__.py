@@ -29,7 +29,7 @@
     'company': 'Cybrosys Techno Solutions',
     'website': 'https://www.erpgo.az',
     'category': 'Industries',
-    'depends': ['base', 'account'],
+    'depends': ['base', 'account','sale_management'],
     'license': 'AGPL-3',
     'data': [
         'views/insurance_details.xml',
