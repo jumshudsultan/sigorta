@@ -27,7 +27,7 @@
     'description': """Insurance Management""",
     'author': 'Cybrosys Techno Solutions',
     'company': 'Cybrosys Techno Solutions',
-    'website': 'https://www.cybrosys.com',
+    'website': 'https://www.erpgo.az',
     'category': 'Industries',
     'depends': ['base', 'account'],
     'license': 'AGPL-3',
