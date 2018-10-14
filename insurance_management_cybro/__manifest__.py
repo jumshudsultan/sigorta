@@ -38,7 +38,9 @@
         'views/policy_management.xml',
         'views/insurance_sequence.xml',
         'views/insurance_management.xml',
+        'views/emailview.xml',
         'security/ir.model.access.csv',
+
     ],
     'demo': [],
     'images': ['static/description/banner.jpg'],
