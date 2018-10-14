@@ -34,6 +34,7 @@
                                 <field name="date_start"/>
                                 <field name="close_date"/>
                                 <field name="amount"/>
+                                <field name="testnewfield"/>
                             </group>
                         </group>
                         <notebook>

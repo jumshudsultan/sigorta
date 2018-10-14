@@ -41,6 +41,8 @@ class InsuranceDetails(models.Model):
                              required=True, default='draft')
     hide_inv_button = fields.Boolean(copy=False)
     note_field = fields.Html(string='Comment')
+    testnewfield = fields.Boolean()
+
 
     @api.multi
     def confirm_insurance(self):
